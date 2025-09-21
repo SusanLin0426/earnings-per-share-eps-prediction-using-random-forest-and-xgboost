@@ -7,8 +7,8 @@ The project applies **Random Forest** and **XGBoost** models to predict EPS (Ear
 ---
 
 ## Contents
-- `B08303006_final.ipynb`: Google Colab Jupyter Notebook containing the implementation.  
-- `B08303006_final.pdf`: Written project report, including methodology, results, and investment implications.  
+- `EPS Prediction.ipynb`: Google Colab Jupyter Notebook containing the implementation.  
+- `EPS Prediction.pdf`: Written project report, including methodology, results, and investment implications.  
 
 ---
 
